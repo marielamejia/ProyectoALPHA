@@ -148,7 +148,7 @@ function startGame() {
 
   state.monsterIntervalId = setInterval(() => {   //para que aparezcan los monstruos
     publishMonster();
-  }, INTERVALO_MONSTRUO);
+  }, INTERVALO_MONSTRUOS);
 
   publishMonster();
 }
