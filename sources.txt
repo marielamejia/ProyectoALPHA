@@ -1,0 +1,15 @@
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\Main.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\client\ClientLauncher.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\client\GanadorSubscriber.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\client\GUIJuego.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\client\GUILogin.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\client\MonstruoSubscriber.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\client\TCPClientThread.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\estresador\Estresador.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\estresador\EstresadorTCPClientThread.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\juego\Juego.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\juego\Jugador.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\server\GanadorPublisher.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\server\MonstruoPublisher.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\server\TCPServer.java 
+C:\Users\marie\Desktop\ITAM\10MO SEMESTRE\ProyectoALPHA\src\server\TCPServerThread.java 

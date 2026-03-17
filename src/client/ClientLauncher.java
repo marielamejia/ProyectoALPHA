@@ -26,29 +26,20 @@ public class ClientLauncher {
 
     }
 
-    public static void main() {
+    public static void main(String[] args) {
 
         SwingUtilities.invokeLater(() -> {
             JFrame frame = new JFrame("Pégale al Monstruo");
-
-            frame.setMinimumSize(new java.awt.Dimension(400, 200));
-            frame.pack();
-            frame.setLocationRelativeTo(null);
-            frame.setVisible(true);
 
             GUILogin login = new GUILogin(frame);
 
             frame.setContentPane(login.getPanelLogin());
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            frame.setMinimumSize(new java.awt.Dimension(400, 200));
             frame.pack();
             frame.setLocationRelativeTo(null);
             frame.setVisible(true);
         });
-
-
-
-
-
 
     }
 }
